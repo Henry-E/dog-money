@@ -1,0 +1,28 @@
+Streaming transaction logs mentioning 4j5gxrivVGXMHKDaU7ZM3QY7e21ZDdJyckawoFEgc7A1. Confirmed commitment
+Transaction executed in slot 6:
+  Signature: 4AyKjtDUa4dRdHTFT7RE6UHgY44tezcxCi27k99rJkSPUa3HzyT3hX39n9yn8Rkn8pcRR2LQ6KiHDb1nAP15Tb9R
+  Status: Ok
+  Log Messages:
+    Program 11111111111111111111111111111111 invoke [1]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [1]
+    Program log: Instruction: InitializeAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3918 of 200000 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+Transaction executed in slot 9:
+  Signature: 62HeP5d9xwj5jrGjxXpVuUkQaJmohH5jPHrxGWjJii6CCZBzmsLj9NGC7iUftTQ2y7FgNfrRkX2Mj3pL22tcUHfh
+  Status: Ok
+  Log Messages:
+    Program 4j5gxrivVGXMHKDaU7ZM3QY7e21ZDdJyckawoFEgc7A1 invoke [1]
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3402 of 177170 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3012 of 170167 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 4j5gxrivVGXMHKDaU7ZM3QY7e21ZDdJyckawoFEgc7A1 consumed 34935 of 200000 compute units
+    Program 4j5gxrivVGXMHKDaU7ZM3QY7e21ZDdJyckawoFEgc7A1 success

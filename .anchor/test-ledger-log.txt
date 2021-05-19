@@ -1,0 +1,7 @@
+Ledger location: .anchor/test-ledger
+Log: .anchor/test-ledger/validator.log
+Identity: 4s7612K5LQXYyPA73fvBpuwDHKvbXwcBpvjCu2dvCo7f
+Version: 1.6.4
+Gossip Address: 127.0.0.1:1024
+TPU Address: 127.0.0.1:42581
+JSON RPC URL: http://127.0.0.1:8899
